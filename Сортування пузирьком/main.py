@@ -12,3 +12,5 @@ while swaps:
             nums[j], nums[j + 1] = nums[j + 1], nums[j]
 
             print(nums)
+
+print("test valik 1")
