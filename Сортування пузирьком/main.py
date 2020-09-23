@@ -14,3 +14,4 @@ while swaps:
             print(nums)
 
 print("test valik 1")
+print()
